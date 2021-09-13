@@ -1,0 +1,27 @@
+{
+	"name": "solid-2048",
+	"version": "0.0.1",
+	"author": {
+		"name": "xiuxiu62",
+		"email": "jacremer@live.com",
+		"url": "https://github.com/xiuxiu62"
+	},
+	"description": "A solidjs implementation of 2048",
+	"license": "MIT",
+	"scripts": {
+		"start": "vite",
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview"
+	},
+	"dependencies": {
+		"solid-app-router": "^0.1.5",
+		"solid-js": "^1.1.1"
+	},
+	"devDependencies": {
+		"tailwindcss": "^2.2.15",
+		"vite": "^2.5.1",
+		"vite-plugin-solid": "^2.0.3",
+		"vite-plugin-windicss": "^1.4.2"
+	}
+}

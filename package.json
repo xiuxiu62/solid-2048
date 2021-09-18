@@ -9,8 +9,7 @@
 	"description": "A solidjs implementation of 2048",
 	"license": "MIT",
 	"scripts": {
-		"start": "vite",
-		"dev": "vite",
+		"watch": "vite",
 		"build": "vite build",
 		"serve": "vite preview"
 	},

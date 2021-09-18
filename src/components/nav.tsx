@@ -2,8 +2,8 @@ import { JSXElement } from 'solid-js';
 
 export default function (): JSXElement {
 	return (
-		<section class="text-4xl text-center bg-white">
-			<header>TODO: implement nav bar</header>
+		<section class="mt-4 bg-white">
+			<header class="text-5xl text-center">2048</header>
 			<br />
 		</section>
 	);
